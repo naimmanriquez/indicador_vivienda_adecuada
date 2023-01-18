@@ -1,9 +1,9 @@
 # Proyecto de investigación sobre vivienda adecuada - Programas Nacionales Estrategicos/CONACYT
 Repositorio de datos y códigos para generar indicador de vivienda adecuada por entidad federativa y regiones.
 
-### Seguridad en la tenencia
+#### Seguridad en la tenencia
 Garantizar protección jurídica de los ocupantes.
-### Disponibilidad de los servicios
+#### Disponibilidad de los servicios
 Conexión y dotación de servicios básicos como agua, luz y drenaje
 ### Asequibilidad
 Que las personas puedan acceder a una vivienda sin sacrificar otras necesidades básicas.
