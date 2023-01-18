@@ -1,5 +1,5 @@
 # Proyecto de investigación sobre vivienda adecuada - Programas Nacionales Estrategicos/CONACYT
-Repositorio de datos y códigos para generar indicador de vivienda adecuada por entidad federativa y regiones.
+Repositorio de datos y códigos para generar indicador de vivienda adecuada por entidad federativa y regiones. Para este análisis se toma de referencia la Encuesta Nacional de Vivienda del Instituto Nacional de Estadística y Geografía - INEGI. En el caso del concepto de vivienda adecuada se toman los elementos de referencia que propone ONU-Hábitat para caracterizar lo que debe tener una vivienda para considerarla adecuada: seguridad en la tenencia, disponibilidad de los servicios, asequibilidad, accesibilidad, habitabilidad, adecuación cultural y ubicación. 
 
 #### Seguridad en la tenencia
 Garantizar protección jurídica de los ocupantes.
